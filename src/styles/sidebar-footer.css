@@ -4,6 +4,7 @@
 
 body {
     background-color: #000;
+    font-family: var(--font-dm-sans);
 }
 
 .sidebar {
@@ -42,7 +43,6 @@ body {
 
 .sidebar nav ul li a {
     color: #b3b3b3;
-    font-family: 'DM Sans', sans-serif;
     font-weight: 600;
     font-size: 14px;
 }
@@ -73,7 +73,6 @@ body {
     border: 0;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'DM Sans', sans-serif;
     text-align: center;
     text-transform: none;
     padding: 20px 10px;
@@ -96,7 +95,6 @@ body {
     justify-content: space-between;
     gap: 20px;
     background-color: #242424;
-    font-family: 'DM Sans', sans-serif;
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
@@ -168,7 +166,6 @@ footer {
     width: 98%;
     height: 70px;
     padding: 12px;
-    font-family: 'DM Sans', sans-serif;
 }
 
 footer .footer {
